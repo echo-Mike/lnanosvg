@@ -18,7 +18,7 @@
 #endif
 
 /// LUA
-#include "lua.h"
-#include "lauxlib.h"
+#include <lua.h>
+#include <lauxlib.h>
 
 #endif // LNS_INCLUDES_H__
